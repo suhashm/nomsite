@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nom Kumar Site</title>
-    <link>https://nomukar.netlify.app/posts/</link>
+    <link>https://nomkumar.netlify.app/posts/</link>
     <description>Recent content in Posts on Nom Kumar Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2021 01:17:17 -0800</lastBuildDate><atom:link href="https://nomukar.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 01:17:17 -0800</lastBuildDate><atom:link href="https://nomkumar.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nom is here!</title>
-      <link>https://nomukar.netlify.app/posts/my-first-post/</link>
+      <link>https://nomkumar.netlify.app/posts/my-first-post/</link>
       <pubDate>Sat, 13 Feb 2021 01:17:17 -0800</pubDate>
       
-      <guid>https://nomukar.netlify.app/posts/my-first-post/</guid>
+      <guid>https://nomkumar.netlify.app/posts/my-first-post/</guid>
       <description>Hugo site generator is pretty cool! Check out the quick start</description>
     </item>
     
