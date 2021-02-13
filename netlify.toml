@@ -1,5 +1,5 @@
 [build]
-publish = "/"
+publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
@@ -28,3 +28,8 @@ HUGO_VERSION = "0.80.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
